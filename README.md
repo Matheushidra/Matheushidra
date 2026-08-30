@@ -1,26 +1,56 @@
-Olá! 👋
+# Olá! 👋
 
-Sou estudante de Engenharia de Controle e Automação e Técnico em Desenvolvimento de Sistemas, com interesse em programação, automação e tecnologia.
+Sou estudante de **Engenharia de Controle e Automação** no IFSP e estudante de **Técnico em Desenvolvimento de Sistemas** pelo Centro Paula Souza.
 
-🎓 Formação
-Engenharia de Controle e Automação — IFSP (em andamento)
+Também sou formado como **Técnico em Automação Industrial** pelo IFSP e em **Indústria 4.0** pelo COTUCA.
 
-Técnico em Desenvolvimento de Sistemas — Centro Paula Souza (em andamento)
+Atualmente, estou no início da minha formação em Desenvolvimento de Sistemas, **aprendendo e desenvolvendo meus conhecimentos em programação e tecnologia**, enquanto busco integrar essa nova área à minha experiência em automação e indústria.
 
-Técnico em Automação Industrial — IFSP (concluído)
+## 👨‍💻 Sobre mim
 
-Técnico em Indústria 4.0 — COTUCA (concluído)
+Minha formação reúne conhecimentos de **automação industrial, engenharia, tecnologia e desenvolvimento de sistemas**.
 
-💻 Tecnologias
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="65" height="65" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="65" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3"/> </p>
+Tenho formação técnica em Automação Industrial e Indústria 4.0 e, atualmente, curso Engenharia de Controle e Automação no IFSP e Técnico em Desenvolvimento de Sistemas pelo Centro Paula Souza.
 
-C — conhecimento intermediário
-Python, HTML5 e CSS3 — em aprendizado
+No Desenvolvimento de Sistemas, estou **construindo minha base em programação**, aprendendo novas tecnologias e colocando os conhecimentos em prática por meio de projetos.
 
-🚀 Em desenvolvimento
+Tenho interesse principalmente na integração entre **software, automação e indústria**, buscando futuramente desenvolver soluções que conectem sistemas computacionais aos processos industriais.
 
-Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvendo projetos práticos para fortalecer minha base técnica e explorar novas áreas da tecnologia.
+## 🎓 Formação
 
-📌 Status
+* 🎓 **Engenharia de Controle e Automação** — IFSP *(em andamento)*
+* 💻 **Técnico em Desenvolvimento de Sistemas** — Centro Paula Souza *(em andamento — início do curso)*
+* ⚙️ **Técnico em Automação Industrial** — IFSP *(concluído)*
+* 🏭 **Técnico em Indústria 4.0** — COTUCA *(concluído)*
 
-Estudante e desenvolvedor em formação, construindo projetos, aprendendo continuamente e buscando transformar conhecimento em soluções práticas.
+## 💻 Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" height="55" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
+</p>
+
+* **C** — conhecimento intermediário
+* **Python** — em aprendizado
+* **HTML5** — em aprendizado
+* **CSS3** — em aprendizado
+
+## 🚀 Atualmente
+
+Estou iniciando minha jornada no **Desenvolvimento de Sistemas**, buscando construir uma base sólida em programação e desenvolvimento de software.
+
+Neste momento, meu foco está em **aprender, praticar e desenvolver projetos**, utilizando cada projeto como uma oportunidade para aplicar novos conhecimentos e evoluir tecnicamente.
+
+Ao mesmo tempo, continuo aprofundando meus conhecimentos em **Engenharia de Controle e Automação, Automação Industrial e Indústria 4.0**.
+
+## 🎯 Objetivo
+
+Meu objetivo é desenvolver uma carreira que una **programação, automação e tecnologia industrial**, criando soluções que possam conectar software, sistemas automatizados e processos industriais.
+
+---
+
+> ⚙️ **Automação + 💻 Software + 🏭 Indústria 4.0**
+>
+> Em constante aprendizado e desenvolvimento, transformando conhecimento em projetos e soluções práticas.
