@@ -52,10 +52,10 @@ Ao mesmo tempo, continuo aprofundando meus conhecimentos em **Engenharia de Cont
 
 Meu objetivo é desenvolver uma carreira que una **programação, automação e tecnologia industrial**, criando soluções que possam conectar software, sistemas automatizados e processos industriais.
 
----
-
 > ⚙️ **Automação + 💻 Software + 🏭 Indústria 4.0**
 >
-> Em constante aprendizado e desenvolvimento, transformando conhecimento em projetos e soluções práticas.
->
-> 
+> Em constante aprendizado e desenvolvimento, transformando conhecimento em projetos e soluções práticas.>
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-souza-64ab9b205/) 
+
