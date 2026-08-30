@@ -16,6 +16,11 @@ No Desenvolvimento de Sistemas, estou **construindo minha base em programação*
 
 Tenho interesse principalmente na integração entre **software, automação e indústria**, buscando futuramente desenvolver soluções que conectem sistemas computacionais aos processos industriais.
 
+Reflexão:
+  "É difícil dizer o que é impossível,
+  pois a fantasia de ontem é a esperança de hoje
+  e a realidade do amanhã." Victorine Mizrahi
+
 ## 🎓 Formação
 
 * 🎓 **Engenharia de Controle e Automação** — IFSP *(em andamento)*
@@ -26,16 +31,15 @@ Tenho interesse principalmente na integração entre **software, automação e i
 ## 💻 Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" height="55" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
 </p>
 
 * **C** — conhecimento intermediário
-* **Python** — em aprendizado
-* **HTML5** — em aprendizado
-* **CSS3** — em aprendizado
+* **Python** - em aprendizado
+* **HTML5** - em aprendizado
+* **CSS3** - em aprendizado
 
 ## 🚀 Atualmente
 
@@ -54,3 +58,5 @@ Meu objetivo é desenvolver uma carreira que una **programação, automação e 
 > ⚙️ **Automação + 💻 Software + 🏭 Indústria 4.0**
 >
 > Em constante aprendizado e desenvolvimento, transformando conhecimento em projetos e soluções práticas.
+>
+> 
