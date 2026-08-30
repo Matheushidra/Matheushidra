@@ -17,9 +17,9 @@ No Desenvolvimento de Sistemas, estou **construindo minha base em programação*
 Tenho interesse principalmente na integração entre **software, automação e indústria**, buscando futuramente desenvolver soluções que conectem sistemas computacionais aos processos industriais.
 
 Reflexão:
-  "É difícil dizer o que é impossível,
-  pois a fantasia de ontem é a esperança de hoje
-  e a realidade do amanhã." Victorine Mizrahi
+  "É difícil dizer o que é impossível, <br>
+  pois a fantasia de ontem é a esperança de hoje <br>
+  e a realidade do amanhã." Victorine Mizrahi <br>
 
 ## 🎓 Formação
 
@@ -36,7 +36,6 @@ Reflexão:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
 </p>
 
-* **C** — conhecimento intermediário
 * **Python** - em aprendizado
 * **HTML5** - em aprendizado
 * **CSS3** - em aprendizado
