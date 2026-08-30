@@ -4,9 +4,13 @@ Sou estudante de Engenharia de Controle e Automação e Técnico em Desenvolvime
 
 🎓 Formação
 Engenharia de Controle e Automação — IFSP (em andamento)
+
 Técnico em Desenvolvimento de Sistemas — Centro Paula Souza (em andamento)
+
 Técnico em Automação Industrial — IFSP (concluído)
+
 Técnico em Indústria 4.0 — COTUCA (concluído)
+
 💻 Tecnologias
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="65" height="65" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="65" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3"/> </p>
 
